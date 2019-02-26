@@ -20,7 +20,7 @@
 |TPLink|2019年3月1日|深圳、**杭州**|[点击链接](http://hr.tp-link.com.cn/m/)|c0aj|3月8截止|
 |4399游戏|2019年3月1日|广州|[点击链接](http://web.4399.com/campus)|xxd9k|3月14截止，练手感|
 |杭州银行|2019年3月4日 |**杭州**|[点击链接]( http://hzbank.zhaopin.com/ )|-|杭电宣讲-现场笔面试|
-|杭州银行|2019年3月10日 |**上海**、北京、广州、西安、成都|[点击链接](http://job.abchina.com/htmlfile/2V8UrUJjhHrIleK8A1OyTgnulTdIPuuLtemplate_bbs.jsp)|-|练手|
+|农业银行|2019年3月10日 |**上海**、北京、广州、西安、成都|[点击链接](http://job.abchina.com/htmlfile/2V8UrUJjhHrIleK8A1OyTgnulTdIPuuLtemplate_bbs.jsp)|-|练手|
 
 
 
