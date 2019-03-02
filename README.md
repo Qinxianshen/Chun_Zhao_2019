@@ -15,11 +15,13 @@
 |中兴|2019年3月5日 |--|[点击链接](https://mp.weixin.qq.com/s?__biz=MzA5NDAwODYwMQ==&mid=2650578154&idx=1&sn=ed86c9cfe1872d9f8d8b301ec0b858da&chksm=885d189cbf2a918ab06674a162327138aeac875e16353647edc3724a04869308705bd72eb88b&mpshare=1&scene=23&srcid=0222qim3GZtkPqcVKZdc4Z9o#rd)|ZTE2724N0|打算这天投，可加群797907358（上海、杭州）|
 |宏杉科技|2019年3月5日 |**杭州**|[点击链接](http://www.macrosan.com/concept.aspx?k1=7&k2=37&k3=122)|-|打算这天投（3月上旬杭电宣讲）|
 |TPLink|2019年3月5日|深圳、**杭州**|[点击链接](http://hr.tp-link.com.cn/m/)|c0aj|3月8截止|
+|cvte|2019年3月5日| 广州|[点击链接](http://campus.cvte.com/)|[点击](http://m.nowcoder.com/discuss/156101) |3月8日 18:00截止|
 |360|2019年3月8日|--| [点击链接](http://campus360.mikecrm.com/2knS7kv)|只剩网申，无内推|秋招补招|
 |网易雷火|2019年3月10日|**杭州**|[点击链接](https://campus.163.com/hy/index.html)|[点击私聊发帖人](http://m.nowcoder.com/discuss/155964)|秋招补招，3月14截止|
 |农业银行|2019年3月10日 |**上海**、北京、广州、西安、成都|[点击链接](http://job.abchina.com/htmlfile/2V8UrUJjhHrIleK8A1OyTgnulTdIPuuLtemplate_bbs.jsp)|-|练手|
 |4399游戏|2019年3月10日|广州|[点击链接](http://web.4399.com/campus)|xxd9k|3月14截止，练手感|
 |搜狐|2019年3月10日|北京，广州|[点击链接](https://mp.weixin.qq.com/s?__biz=MzU5MzEzNzUzMQ==&mid=2247492324&idx=1&sn=02d71034664d661e81f5e3872fa9ce68&chksm=fe17b8f0c96031e6d34013dd47cbf26c09852068a5f0283514ad383cf2852bbe2c8b0c5a92f8&mpshare=1&scene=23&srcid=0302dlftv2OwisGx4tEVgLlX#rd)|[点击该链接申请](https://www.nowcoder.com/careers/sohucampus/1987?type=neitui&source=371805676ED03BC5F21C087C37B82A464B167B64A54F37E8)|3月14截止，练手感|
+|iHandy|2019年3月10日|北京|[点击链接](https://app.mokahr.com/campus_apply/ihandysoft/2030#/page/%E6%A0%A1%E6%8B%9B%E8%81%8C%E4%BD%8D?_k=w7zrzf)|[点击链接](https://www.nowcoder.com/discuss/157266)|联系发帖人内推|
 |oppo|2019年3月11日|--|[点击链接](https://www.nowcoder.com/discuss/157327?type=7)|[私聊发帖人](https://www.nowcoder.com/discuss/157327)|3月14杭电宣讲，13网申截止，内推码每个人有数量限制，去牛客网上搜|
 |字节跳动|2019年3月13日 |北京、**上海**、深圳、成都、南京、广州、武汉、厦门、**杭州**等|[点击链接](https://mp.weixin.qq.com/s?__biz=MzI4NTYyMDU0OQ==&mid=2247489164&idx=1&sn=96da867d0e28618fcd40a9c2115f2a0e&chksm=ebe836a6dc9fbfb03bdc37b35c6c1a9f91b307e8dbf1ea325ae73931753f37ce151fb915250b&mpshare=1&scene=23&srcid=0225kK2f6LPh0t7F6kkxCb5m#rd)|AWWVBQT|笔试时间为3月16日/ 4月13日/ 4月27日，5月份网申截止|
 |平安科技|2019年3月15日|深圳、北京、上海|[点击链接](http://campus.pingan.com/tech)|GQKB8A|3月19截止网申|
@@ -27,7 +29,7 @@
 |拼多多|2019年3月20日|---|[点击链接](https://m.nowcoder.com/discuss/157084?from=timeline&isappinstalled=0&headNav=www)|[私聊学姐](https://m.nowcoder.com/discuss/157084?from=timeline&isappinstalled=0&headNav=www)|4月30截止网申|
 |杭州迪普科技股份有限公司|2019年3月20日|**杭州**|[点击链接](http://www.yingjiesheng.com/job-004-092-690.html?tdsourcetag=s_pctim_aiomsg&qq-pf-to=pcqq.c2c)|-|打算这天投|
 |浙江移动|2019年4月1日|宁波、台州、温州等|[点击链接](http://mp.weixin.qq.com/s?__biz=MzU1MzExMDQyNQ==&mid=2247484321&idx=1&sn=347b0fde4145ff67f99622f3a19ba664&chksm=fbf69d57cc811441151d5fec04211655883e286d14494a841cc927b792f4fe522fe203ae44c8&mpshare=1&scene=23&srcid=0302CfwTirwdRwMbWwaAJP0o#rd)|10086187|4月7日截止|
-|iHandy|2019年3月10日|北京|[点击链接](https://app.mokahr.com/campus_apply/ihandysoft/2030#/page/%E6%A0%A1%E6%8B%9B%E8%81%8C%E4%BD%8D?_k=w7zrzf)|[点击链接](https://www.nowcoder.com/discuss/157266)|联系发帖人内推|
+
 
 
 
